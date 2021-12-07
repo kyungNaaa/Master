@@ -1,1 +1,9 @@
 젠킨스 배포하기
+2021/12/7 (화)
+메이븐 클린 플러그인(2.5) 버전 넣어서 빌드 시작
+https://maven.apache.org/plugins/maven-clean-plugin/examples/skipping-clean.html
+
+
+
+
+
